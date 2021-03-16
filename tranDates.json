@@ -1,0 +1,12 @@
+{
+    "body": {
+        "status": "Success",
+        "response": {
+            "data": {
+                "hits": 2.474220396E9,
+                "totaluser": 2.702743E7,
+                "transactions": 1.40386355E9
+            }
+        }
+    }
+}
